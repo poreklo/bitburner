@@ -1,4 +1,3 @@
-/** @param {NS} ns */
 export async function main(ns) {
   ns.disableLog("ALL");
   const min_money = 0; // Skip upgrade if available money below min_money
